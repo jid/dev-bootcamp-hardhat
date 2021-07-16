@@ -12,11 +12,13 @@ const networkConfig = {
         keyHash: '0x6c3699283bda56ad74f6b855546325b68d482e983852a7a82979cc4807b641f4',
         jobId: '29fa9aa13bf1468788b7cc4a500a45b8',
         fundAmount: "1000000000000000000"
+        //ethUsdPriceFeed: '0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419'
     },
     42: {
         name: 'kovan',
         linkToken: '0xa36085F69e2889c224210F603D836748e7dC0088',
         ethUsdPriceFeed: '0x9326BFA02ADD2366b30bacB125260Af641031331',
+        btcUsdPriceFeed: '0x6135b13325bfC4B00278B4abC5e20bbce2D6580e',
         keyHash: '0x6c3699283bda56ad74f6b855546325b68d482e983852a7a82979cc4807b641f4',
         vrfCoordinator: '0xdD3782915140c8f3b190B5D67eAc6dc5760C46E9',
         oracle: '0x2f90A6D021db21e1B2A077c5a37B3C7E75D15b7e',
